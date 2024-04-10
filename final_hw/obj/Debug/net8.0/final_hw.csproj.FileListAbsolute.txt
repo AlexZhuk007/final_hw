@@ -1,0 +1,15 @@
+D:\Загрузки\Обучение\final\final_hw\bin\Debug\net8.0\final_hw.exe
+D:\Загрузки\Обучение\final\final_hw\bin\Debug\net8.0\final_hw.deps.json
+D:\Загрузки\Обучение\final\final_hw\bin\Debug\net8.0\final_hw.runtimeconfig.json
+D:\Загрузки\Обучение\final\final_hw\bin\Debug\net8.0\final_hw.dll
+D:\Загрузки\Обучение\final\final_hw\bin\Debug\net8.0\final_hw.pdb
+D:\Загрузки\Обучение\final\final_hw\obj\Debug\net8.0\final_hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Обучение\final\final_hw\obj\Debug\net8.0\final_hw.AssemblyInfoInputs.cache
+D:\Загрузки\Обучение\final\final_hw\obj\Debug\net8.0\final_hw.AssemblyInfo.cs
+D:\Загрузки\Обучение\final\final_hw\obj\Debug\net8.0\final_hw.csproj.CoreCompileInputs.cache
+D:\Загрузки\Обучение\final\final_hw\obj\Debug\net8.0\final_hw.sourcelink.json
+D:\Загрузки\Обучение\final\final_hw\obj\Debug\net8.0\final_hw.dll
+D:\Загрузки\Обучение\final\final_hw\obj\Debug\net8.0\refint\final_hw.dll
+D:\Загрузки\Обучение\final\final_hw\obj\Debug\net8.0\final_hw.pdb
+D:\Загрузки\Обучение\final\final_hw\obj\Debug\net8.0\final_hw.genruntimeconfig.cache
+D:\Загрузки\Обучение\final\final_hw\obj\Debug\net8.0\ref\final_hw.dll
